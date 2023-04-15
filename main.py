@@ -1,3 +1,8 @@
+from  Felipe import Felipe
+
+objeto = Felipe()
+objeto.nombre="felipe"
+objeto.estudiar()
 from Willian import Willian
 from VanessaAcosta import VanessaAcosta
 # PARA USUAR UNA CLASE DEBO CREAR UNA INSTANCIA
