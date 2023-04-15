@@ -1,0 +1,33 @@
+[33mcommit 9e3c377d21b926ea12938cec06e8ebc23b503f88[m[33m ([m[1;36mHEAD -> [m[1;32mramassb[m[33m, [m[1;31morigin/ramassb[m[33m)[m
+Merge: 000f783 78d2e41
+Author: LeidyPaolaV <leidy01995@hotmail.com>
+Date:   Sat Apr 15 13:00:13 2023 -0500
+
+    Se resuelve conflicto
+
+[33mcommit 78d2e4145a501582abfff71a7ee4cf02b61997c4[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 811d269 0d2262c
+Author: jjosegallegocesde <61057518+jjosegallegocesde@users.noreply.github.com>
+Date:   Sat Apr 15 12:56:10 2023 -0500
+
+    Merge pull request #1 from wilyCesde/willinruiz
+    
+    nt9 se crea clase propia
+
+[33mcommit 0d2262caebb0cb501429379959d450f7259c3ab9[m
+Author: wilyCesde <wruizza@cesde.net>
+Date:   Sat Apr 15 12:49:19 2023 -0500
+
+    nt9 se crea clase propia
+
+[33mcommit 000f78348dc2845d92157c971ae91e48591606b0[m
+Author: LeidyPaolaV <leidy01995@hotmail.com>
+Date:   Sat Apr 15 12:43:20 2023 -0500
+
+    Se crea rama santiagossb
+
+[33mcommit 811d269ee91287d600126f5f74e550ea04fbc8c2[m[33m ([m[1;32mmain[m[33m)[m
+Author: jjosegallegocesde <61057518+jjosegallegocesde@users.noreply.github.com>
+Date:   Sat Apr 15 11:57:12 2023 -0500
+
+    Initial commit
