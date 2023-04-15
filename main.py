@@ -1,8 +1,14 @@
-<<<<<<< HEAD
+
 from Victor import Victor
 
 objeto=Victor()
-=======
+
+from  Felipe import Felipe
+
+objeto = Felipe()
+objeto.nombre="felipe"
+objeto.estudiar()
+
 from Willian import Willian
 
 # PARA USUAR UNA CLASE DEBO CREAR UNA INSTANCIA
@@ -20,4 +26,4 @@ objeto.nombre = "willian"
 objeto.edad=35
 
 objeto.saludar()
->>>>>>> 78d2e4145a501582abfff71a7ee4cf02b61997c4
+
