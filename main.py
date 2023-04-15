@@ -1,6 +1,11 @@
 from SantiagoSB import SantiagoSB
 
 object= SantiagoSB()
+from  Felipe import Felipe
+
+objeto = Felipe()
+objeto.nombre="felipe"
+objeto.estudiar()
 from Willian import Willian
 
 # PARA USUAR UNA CLASE DEBO CREAR UNA INSTANCIA
